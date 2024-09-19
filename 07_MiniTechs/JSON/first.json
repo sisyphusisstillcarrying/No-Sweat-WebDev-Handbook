@@ -1,0 +1,28 @@
+
+{
+    
+    "name": "Naveen", 
+    "score": 90,
+    "age": 30,
+    "city": "New Delhi",
+    "isAdmin": false,
+    "license": null,
+    "marks": [90, 80, 70, 60],
+    "shopItem":["pen", "pencil", "eraser"],
+    "myObj":{
+        "name":"nested",
+        "marks": [90, 80, 70, 60],
+        "shopItem2":["pen", "pencil", {"a":true, "b":false}]
+    },
+    "friends": [
+        {
+            "name": "Rahul",
+            "age": 30
+        },
+        {
+            "name": "Rohit",
+            "age": 31
+        }
+    ]
+
+}
